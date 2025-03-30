@@ -1,4 +1,4 @@
-# wxMaster文档
+# wxMaster
 wxMaster是电脑版微信客户端的自动化框架，你可以用任何编程语言通过HTTP协议调用wxMaster框架的API接口，实现微信自动收发消息。
 
 # 核心功能
