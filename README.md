@@ -1,5 +1,5 @@
 # wxMaster
-wxMaster是电脑版微信客户端的自动化框架，你可以用任何编程语言通过HTTP协议调用wxMaster框架的API接口，实现微信自动收发消息。
+wxMaster是电脑版微信客户端的自动化框架，你可以用任何编程语言通过HTTP协议调用wxMaster框架的API接口，实现微信自动收发消息。  
 wxMaster是面向开发者的，框架仅提供API功能接口，业务逻辑需要你用编程实现。
 
 # 核心功能
@@ -18,8 +18,8 @@ wxMaster是面向开发者的，框架仅提供API功能接口，业务逻辑需
 	10. 微信转账自动收款。
 
 # 如何开始
-	1. [下载并启动wxMaster.exe](https://gitee.com/xzhinet/wxMaster/raw/main/wxMaster.exe)
-	2. 用任何编程语言编写业务逻辑。
+1. [下载并启动wxMaster.exe](https://gitee.com/xzhinet/wxMaster/raw/main/wxMaster.exe)
+2. 用任何编程语言编写业务逻辑。
 
 # 安全愿景
 市面上大部分个人微信机器人都采用HOOK和协议实现，HOOK和协议最致命的缺点就是**易封号**，为了解决易封号的问题，wxMaster应运而生。  
@@ -31,7 +31,7 @@ wxMaster采用了多种技术防止封号，包括采用安全合规的UIAutomat
 
 # 微信版本
 `3.9.12.51` （最新版）
-	>框架会努力维护对最新微信版本的支持。
+>框架会努力维护对最新微信版本的支持。
 
 # API接口
 
